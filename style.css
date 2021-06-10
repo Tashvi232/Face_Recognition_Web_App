@@ -1,0 +1,16 @@
+body{
+    background:#AAD9CD;
+    color: #E9BBB5;
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+.name_of_object,#result_object_name{
+    color:#E8D595;
+}
+#camera{
+    height:320px;
+    width:350px;
+    border:2px dashed black;
+}
